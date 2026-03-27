@@ -8,6 +8,9 @@
   <Folder Name="/src/UNIT02/">
     <Project Path="src/UNIT02/Program01/Program01.csproj" />
     <Project Path="src/UNIT02/Program02/Program02.csproj" />
+    <Project Path="src/UNIT02/Program03" />
+    <Project Path="src/UNIT02/Program04" />
+    <Project Path="src/UNIT02/Program05" />
   </Folder>
   <Folder Name="/src/UNIT03/">
     <Project Path="src/UNIT03/Program01/Program01.csproj" />
