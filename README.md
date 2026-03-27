@@ -20,8 +20,8 @@
 
 | 🎓 **Field** | 📝 **Details** |
 | :--- | :--- |
-| **Name** | `Suman Mandal` |
-| **Enrollment No** | `92400527001` |
+| **Name** | `Ankit Raj Chaturvedi` |
+| **Enrollment No** | `92400527246` |
 | **Course** | Bachelor of Computer Applications (BCA) |
 | **Semester** | 4th Semester |
 | **Subject** | Programming in C#.NET |
